@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "101943094596",
+    "firebase_url": "https://androideat-d002f.firebaseio.com",
+    "project_id": "androideat-d002f",
+    "storage_bucket": "androideat-d002f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101943094596:android:b854ec8853185597",
+        "android_client_info": {
+          "package_name": "com.eat_it.root.eat_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101943094596-g3m180q1hps0t9g30mkugs4fqct748kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eat_it.root.eat_it",
+            "certificate_hash": "da6c78f6b337b72c3ae8c319d7a345bc8429ceae"
+          }
+        },
+        {
+          "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5LwgndpM62n4Kcj0nisNJ2fdLAgoMoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101943094596:android:b5049de7435733bc",
+        "android_client_info": {
+          "package_name": "com.eat_it.root.lets_eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101943094596-6k5fm7f5tlkav6p50p1g7t8q3utb1du5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eat_it.root.lets_eat",
+            "certificate_hash": "da6c78f6b337b72c3ae8c319d7a345bc8429ceae"
+          }
+        },
+        {
+          "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5LwgndpM62n4Kcj0nisNJ2fdLAgoMoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101943094596:android:912263d819e8397f",
+        "android_client_info": {
+          "package_name": "com.example.root.lets_eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101943094596-natiuvlvti6q9tr7aflft2umheefvn7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.lets_eat",
+            "certificate_hash": "da6c78f6b337b72c3ae8c319d7a345bc8429ceae"
+          }
+        },
+        {
+          "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5LwgndpM62n4Kcj0nisNJ2fdLAgoMoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101943094596-v9qgk8d5a5hs8e0cmucr39uj4gk5au0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
